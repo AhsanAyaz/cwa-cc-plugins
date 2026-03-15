@@ -1,11 +1,11 @@
-# code-with-ahsan
+# cwa-cc-plugins
 
 Claude Code plugin marketplace by [AhsanAyaz](https://github.com/AhsanAyaz).
 
 ## Add this marketplace
 
 ```
-/plugin marketplace add AhsanAyaz/code-with-ahsan
+/plugin marketplace add AhsanAyaz/cwa-cc-plugins
 ```
 
 ## Plugins
@@ -17,5 +17,5 @@ Claude Code plugin marketplace by [AhsanAyaz](https://github.com/AhsanAyaz).
 ## Install a plugin
 
 ```
-/plugin install claude-halal-code@code-with-ahsan
+/plugin install claude-halal-code@cwa-cc-plugins
 ```
