@@ -8,18 +8,18 @@
   },
   "plugins": [
     {
-      "name": "claude-halal-code",
+      "name": "claude-code-quran",
       "source": {
         "source": "github",
-        "repo": "AhsanAyaz/claude-halal-code"
+        "repo": "AhsanAyaz/claude-code-quran"
       },
       "description": "Displays a Quranic ayah at the start of every Claude Code session",
       "version": "1.0.0",
       "author": {
         "name": "AhsanAyaz"
       },
-      "homepage": "https://github.com/AhsanAyaz/claude-halal-code",
-      "repository": "https://github.com/AhsanAyaz/claude-halal-code",
+      "homepage": "https://github.com/AhsanAyaz/claude-code-quran",
+      "repository": "https://github.com/AhsanAyaz/claude-code-quran",
       "license": "MIT",
       "keywords": ["quran", "islamic", "mindfulness", "ayah"]
     }
