@@ -12,10 +12,10 @@ Claude Code plugin marketplace by [AhsanAyaz](https://github.com/AhsanAyaz).
 
 | Plugin | Description |
 |--------|-------------|
-| [claude-halal-code](https://github.com/AhsanAyaz/claude-halal-code) | Displays a Quranic ayah at the start of every Claude Code session |
+| [claude-code-quran](https://github.com/AhsanAyaz/claude-code-quran) | Displays a Quranic ayah at the start of every Claude Code session |
 
 ## Install a plugin
 
 ```
-/plugin install claude-halal-code@cwa-cc-plugins
+/plugin install claude-code-quran@cwa-cc-plugins
 ```
